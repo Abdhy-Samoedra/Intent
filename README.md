@@ -19,3 +19,6 @@ Ketika sebuah activity lainnya dipanggil atau dimulai, Y onResume()
 method ini digunakan ketika data tidak harus disimpan or onStop()
 kedalam system secara permanen, method ini diikuti
 onResume() atau onStop()
+# Fungsi Intent
+1. Intent berfungsi untuk berpindah halaman dari satu Activity ke Activity lainnya
+2. Untuk mengakses fitur/activity yang terdapat pada perangkat yang digunakan seperti telepon, kamera, email
